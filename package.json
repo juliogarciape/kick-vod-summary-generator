@@ -1,7 +1,8 @@
 {
-  "name": "kick-vod-highlight-generator",
+  "name": "kick-vod-summary-generator",
   "version": "1.0.0",
-  "description": "",
+  "description": "Automated tool that randomly selects highlights from a kick.com VOD and combines them to create a summary video",
+  "private": true,
   "type": "module",
   "main": "index.js",
   "scripts": {
