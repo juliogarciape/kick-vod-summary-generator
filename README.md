@@ -1,1 +1,1 @@
-# Kick VOD Summary Generator :gear:
+# VOD Summary Generator :gear:
